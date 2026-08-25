@@ -1,7 +1,7 @@
 ---
 format: 
   html:
-    css: styles.css
+    css: ./styles.css
     toc: false
 ---
 
@@ -10,12 +10,11 @@ Bremen, Germany | +49 176 32352878 | sriramrepaka29@gmail.com
 [LinkedIn](https://linkedin.com/in/sriram-repaka) | [GitHub](https://github.com/Sriramrepaka)
 
 ## TECHNICAL PROFILE
+
 * **Firmware & Embedded C:** C, Python, Embedded Linux, RTOS, UART, CAN Bus, SPI, I2C, SystemVerilog
 * **Robotics & Vision:** ROS/ROS2, PyTorch, OpenCV, SegNet, DetectNet, LiDAR Processing, ArUco Tracking
 * **Hardware & Tools:** ESP32, Jetson Nano, Raspberry Pi, Fusion 360 (CAD/3D Printing), JIRA, Git, LTSpice, Proteus
 * **Languages:** English (C1 - Professional), German (A2 - Intermediate), Telugu (Native)
-
----
 
 ## EDUCATION
 
@@ -29,14 +28,12 @@ Bremen, Germany | +49 176 32352878 | sriramrepaka29@gmail.com
 
 * **Focus:** Microprocessors, Computer Architecture, Embedded Systems, IoT
 
----
-
 ## PROFESSIONAL EXPERIENCE
 
 **Embedded Software Developer | Associate II** <span class="date-right">08/2022 – 03/2024</span>  
 *Capgemini Engineering (Client: GoPro) — Bangalore, India*  
 
-* Developed and maintained production application-layer (APPC) camera firmware features in C.
+* Developed and modified production application-layer (APPC) camera firmware features in C.
 * Conducted Root Cause Analysis (RCA) for complex system bugs by evaluating real-time UART logs via Tera Term.
 * Utilized hardware debug boards and logic analyzers to trace software execution and hardware interactions.
 * Managed bug life-cycles in JIRA, maintained version control in Git, and conducted code reviews with Lead Architects.
@@ -47,8 +44,6 @@ Bremen, Germany | +49 176 32352878 | sriramrepaka29@gmail.com
 * Prototyped an EV charging communication and current/voltage monitoring system using PIC18F458 microcontrollers.
 * Implemented CAN bus communication protocol to enable real-time device-to-station data exchange.
 * Simulated microcontroller hardware and CAN protocol execution using Proteus and MPLAB IDE.
-
----
 
 ## SELECTED HARDWARE & ROBOTICS PROJECTS
 
