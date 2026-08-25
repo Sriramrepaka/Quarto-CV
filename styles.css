@@ -1,0 +1,81 @@
+/* Basic Document Setup */
+body {
+  background-color: white;
+  color: black;
+  text-align: left;
+  hyphens: auto;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+p, li, dl {
+  margin: 0;
+}
+
+/* Headings */
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2.5em;
+  letter-spacing: 0.1em;
+  text-align: center;
+  margin-bottom: 0.25em;
+  border-bottom: 1px solid darkgrey;
+}
+
+h2 {
+  margin-bottom: 0.25em;
+  margin-top: 1.0em;
+  font-size: 1.2em;
+  border-bottom: 1px solid darkgrey;
+}
+
+/* Lists */
+ul {
+  padding-left: 1.5em;
+  margin: 0.2em 0 1.0em 0;
+  list-style-type: disc;
+}
+
+/* Definition Lists (This creates the side-by-side columns!) */
+dl {
+  display: flex;
+  margin-bottom: 0.5em;
+}
+
+dl dt, dl dd:not(:last-child) {
+  flex: 1;
+}
+
+/* Icons & Links */
+iconify-icon {
+  vertical-align: -0.2em;
+}
+
+a {
+  color: #000; /* Keeps links black for professional printing */
+  text-decoration: none;
+}
+
+/* Print Specific Settings */
+@media print {
+  body {
+    background-color: white !important;
+    color: black !important;
+  }
+  a {
+    color: black !important;
+  }
+}
+
+/* Right-align dates in headers */
+.date-right {
+  float: right;
+  font-weight: normal;
+  color: #333;
+}
+
+.clear {
+  clear: both;
+}

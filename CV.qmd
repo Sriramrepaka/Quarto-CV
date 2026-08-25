@@ -1,0 +1,78 @@
+---
+format: 
+  html:
+    css: styles.css
+    toc: false
+---
+
+# SRIRAM REPAKA
+Bremen, Germany | +49 176 32352878 | sriramrepaka29@gmail.com  
+[LinkedIn](https://linkedin.com/in/sriram-repaka) | [GitHub](https://github.com/Sriramrepaka)
+
+## TECHNICAL PROFILE
+* **Firmware & Embedded C:** C, Python, Embedded Linux, RTOS, UART, CAN Bus, SPI, I2C, SystemVerilog
+* **Robotics & Vision:** ROS/ROS2, PyTorch, OpenCV, SegNet, DetectNet, LiDAR Processing, ArUco Tracking
+* **Hardware & Tools:** ESP32, Jetson Nano, Raspberry Pi, Fusion 360 (CAD/3D Printing), JIRA, Git, LTSpice, Proteus
+* **Languages:** English (C1 - Professional), German (A2 - Intermediate), Telugu (Native)
+
+---
+
+## EDUCATION
+
+**M.Sc. in Electronics Engineering (Microsystems)** <span class="date-right">10/2024 – Present</span>  
+*Hochschule Bremen, Germany* | Current Grade: 1.7  
+
+* **Focus:** AI in Robotics, Advanced Hardware Verification, Image Processing, Mixed-Signal IC Design, MEMS
+
+**B.Tech. in Electrical and Electronics Engineering** <span class="date-right">08/2018 – 08/2022</span>  
+*Mahindra École Centrale, India* | Grade: 2.0 (German equivalent)  
+
+* **Focus:** Microprocessors, Computer Architecture, Embedded Systems, IoT
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+**Embedded Software Developer | Associate II** <span class="date-right">08/2022 – 03/2024</span>  
+*Capgemini Engineering (Client: GoPro) — Bangalore, India*  
+
+* Developed and maintained production application-layer (APPC) camera firmware features in C.
+* Conducted Root Cause Analysis (RCA) for complex system bugs by evaluating real-time UART logs via Tera Term.
+* Utilized hardware debug boards and logic analyzers to trace software execution and hardware interactions.
+* Managed bug life-cycles in JIRA, maintained version control in Git, and conducted code reviews with Lead Architects.
+
+**R&D Embedded Systems Intern** <span class="date-right">08/2020 – 10/2020</span>  
+*Cellerite Systems — Hyderabad, India*  
+
+* Prototyped an EV charging communication and current/voltage monitoring system using PIC18F458 microcontrollers.
+* Implemented CAN bus communication protocol to enable real-time device-to-station data exchange.
+* Simulated microcontroller hardware and CAN protocol execution using Proteus and MPLAB IDE.
+
+---
+
+## SELECTED HARDWARE & ROBOTICS PROJECTS
+
+**Smart Desktop Assistant & Custom Hardware Enclosure** <span class="date-right">05/2026 – Present</span>  
+
+* Designed an ESP32-driven desktop companion featuring task logging, Pomodoro timer, and Wi-Fi sync.
+* Modeled a custom enclosure with precise speaker/battery mounts in Fusion 360; 3D-printed final chassis.
+
+**AI-Powered Autonomous JetBot** *(Hochschule Bremen)* <span class="date-right">01/2026 – 06/2026</span>  
+
+* Built an autonomous lane-following robot with obstacle avoidance using Jetson Nano, LiDAR, and IMU.
+* Deployed real-time SegNet and DetectNet models for onboard inference and dynamic boundary detection.
+
+**Analog IC Filter Design: 4th-Order Linkwitz-Riley** *(Hochschule Bremen)* <span class="date-right">04/2025 – 07/2025</span>  
+
+* Sized and simulated a 2-stage 5T-OTA using 130nm open-source SG13G2 process in Xschem and ngspice.
+* Performed comprehensive Process, Voltage, Temperature (PVT) parameter and stability analysis.
+
+**Autonomous BRIO Maze Automation** *(Hochschule Bremen)* <span class="date-right">10/2024 – 01/2025</span>  
+
+* Automated a tilting physical maze game using real-time ArUco marker pose estimation in OpenCV.
+* Developed a closed-loop Python control algorithm driving Dynamixel servos for precision ball navigation.
+
+**Assistive LiDAR Navigation Aid** *(B.Tech Thesis)* <span class="date-right">08/2021 – 05/2022</span>  
+
+* Engineered a walking stick for the visually impaired integrating 3D LiDAR Time-of-Flight depth mapping.
+* Designed a custom pneumatic shock absorber mechanism to stabilize camera footage on rough terrain.
