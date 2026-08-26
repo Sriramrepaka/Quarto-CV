@@ -1,13 +1,24 @@
 ---
 format: 
   html:
-    css: ./styles.css
+    css: styles.css
     toc: false
 ---
 
 # SRIRAM REPAKA
-Bremen, Germany | +49 176 32352878 | sriramrepaka29@gmail.com  
-[LinkedIn](https://linkedin.com/in/sriram-repaka) | [GitHub](https://github.com/Sriramrepaka)
+
+<table class="contact-table">
+  <tr>
+    <td>Ph: (+49) 176 32352878</td>
+    <td>Bremen, Germany</td>
+    <td>Email: sriramrepaka29@gmail.com</td>
+  </tr>
+  <tr>
+    <td><a href="https://linkedin.com/in/sriram-repaka">linkedin.com/in/sriram-repaka</a></td>
+    <td><a href="https://github.com/Sriramrepaka">github.com/Sriramrepaka</a></td>
+    <td><a href="https://your-portfolio-link.com">Portfolio</a></td>
+  </tr>
+</table>
 
 ## TECHNICAL PROFILE
 
@@ -36,33 +47,37 @@ Bremen, Germany | +49 176 32352878 | sriramrepaka29@gmail.com
 * Developed and modified production application-layer (APPC) camera firmware features in C.
 * Conducted Root Cause Analysis (RCA) for complex system bugs by evaluating real-time UART logs via Tera Term.
 * Utilized hardware debug boards and logic analyzers to trace software execution and hardware interactions.
-* Managed bug life-cycles in JIRA, maintained version control in Git, and conducted code reviews with Lead Architects.
+* Managed bug life-cycles in JIRA, maintained version control in Git, and conducted code reviews with lead Architect.
 
 **R&D Embedded Systems Intern** <span class="date-right">08/2020 – 10/2020</span>  
 *Cellerite Systems — Hyderabad, India*  
 
-* Prototyped an EV charging communication and current/voltage monitoring system using PIC18F458 microcontrollers.
+* Prototyped an EV charging communication and current/voltage monitoring system using PIC18F458.
 * Implemented CAN bus communication protocol to enable real-time device-to-station data exchange.
 * Simulated microcontroller hardware and CAN protocol execution using Proteus and MPLAB IDE.
 
 ## SELECTED HARDWARE & ROBOTICS PROJECTS
 
-**Smart Desktop Assistant & Custom Hardware Enclosure** <span class="date-right">05/2026 – Present</span>  
+**Smart Desktop Assistant & Custom Hardware Enclosure** <span class="date-right">06/2026 – Present</span>  
+<u>*https://github.com/Sriramrepaka/ESP-32-Habbit-Tracker*</u> | *ESP32, C, FreeRTOS*  
 
 * Designed an ESP32-driven desktop companion featuring task logging, Pomodoro timer, and Wi-Fi sync.
 * Modeled a custom enclosure with precise speaker/battery mounts in Fusion 360; 3D-printed final chassis.
 
-**AI-Powered Autonomous JetBot** *(Hochschule Bremen)* <span class="date-right">01/2026 – 06/2026</span>  
-
-* Built an autonomous lane-following robot with obstacle avoidance using Jetson Nano, LiDAR, and IMU.
-* Deployed real-time SegNet and DetectNet models for onboard inference and dynamic boundary detection.
-
-**Analog IC Filter Design: 4th-Order Linkwitz-Riley** *(Hochschule Bremen)* <span class="date-right">04/2025 – 07/2025</span>  
+**Analog IC Filter Design: 4th-Order Linkwitz-Riley** *(Hochschule Bremen)* <span class="date-right">03/2026 – 07/2026</span>  
+<u>*https://github.com/Sriramrepaka/MCD_VS*</u> | *Xschem, ngspice, sg13g2*
 
 * Sized and simulated a 2-stage 5T-OTA using 130nm open-source SG13G2 process in Xschem and ngspice.
 * Performed comprehensive Process, Voltage, Temperature (PVT) parameter and stability analysis.
 
+**AI-Powered Autonomous JetBot** *(Hochschule Bremen)* <span class="date-right">10/2025 – 01/2026</span>  
+<u>*https://github.com/Sriramrepaka/Jetbot-BIP*</u> | *Pytorch, C, Python, ROS2*  
+
+* Built an autonomous lane-following robot with obstacle avoidance using Jetson Nano, LiDAR, and IMU.
+* Deployed real-time SegNet and DetectNet models for onboard inference and dynamic boundary detection.
+
 **Autonomous BRIO Maze Automation** *(Hochschule Bremen)* <span class="date-right">10/2024 – 01/2025</span>  
+<u>*https://github.com/Sriramrepaka/Aruco-markers-based-pose-estimation*</u> | *Python, MATLAB, C*
 
 * Automated a tilting physical maze game using real-time ArUco marker pose estimation in OpenCV.
 * Developed a closed-loop Python control algorithm driving Dynamixel servos for precision ball navigation.
