@@ -22,7 +22,7 @@ resources:
   <tr>
     <td><a href="https://linkedin.com/in/sriram-repaka"> {{< fa brands linkedin >}} linkedin.com/in/sriram-repaka</a></td>
     <td><a href="https://github.com/Sriramrepaka">{{< fa brands github >}} github.com/Sriramrepaka</a></td>
-    <td><a href="https://your-portfolio-link.com">Portfolio</a></td>
+    <td><a href="https://sriramrepaka.github.io/MyPortfolio/">sriramrepaka.github.io/MyPortfolio/</a></td>
   </tr>
 </table>
 
