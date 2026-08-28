@@ -51,8 +51,8 @@ resources:
 *Capgemini Engineering (Client: GoPro) — Bangalore, India*  
 
 * Developed and modified production application-layer (APPC) camera firmware features in C.
-* Conducted Root Cause Analysis (RCA) for complex system bugs by evaluating real-time UART logs via Tera Term.
-* Utilized hardware debug boards and logic analyzers to trace software execution and hardware interactions.
+* Conducted Root Cause Analysis (RCA) for complex system bugs by evaluating realtime UART logs via Tera Term.
+* Utilized hardware debug boards to trace software execution and hardware interactions.
 * Managed bug life-cycles in JIRA, maintained version control in Git, and conducted code reviews with lead Architect.
 
 **R&D Embedded Systems Intern** <span class="date-right">08/2020 – 10/2020</span>  
